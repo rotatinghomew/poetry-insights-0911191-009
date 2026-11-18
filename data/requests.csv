@@ -1,0 +1,5 @@
+request_id,recipient,scope,period,grouping,source
+R01,公众,public,Q1,venue|course,已公开
+R02,公众,public,Q1,venue|cohort,已公开
+R03,合作方甲,partner-A,Q1,venue|course,既有共享
+R04,公众,public,Q2,venue|course,待审

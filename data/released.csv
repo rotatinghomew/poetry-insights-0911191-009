@@ -1,0 +1,4 @@
+release_id,recipient,scope,period,grouping,cell,value,published_at
+L01,公众,public,Q1,venue,西馆,2,2026-10-02
+L02,公众,public,Q1,course,互动,3,2026-10-02
+L03,合作方甲,partner-A,Q1,venue,东馆,1,2026-10-03

@@ -1,0 +1,4 @@
+policy_id,scope,period,min_group,max_released_margin,known_zero_allowed
+S1,public,Q1,5,12,true
+S2,public,Q2,5,12,true
+S3,partner-A,Q1,3,8,false
